@@ -211,6 +211,12 @@ button:focus:not(:focus-visible) {
 
   }
 }
+.announcement {
+  background-color: #710303;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+}
 
 body {
   margin: 0;
